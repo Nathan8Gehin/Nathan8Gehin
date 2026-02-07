@@ -40,10 +40,10 @@ I specialize in collaborative data projects, in order to build end-to-end analyt
 
 ### 📫 Connect with me
 - 💼 **LinkedIn**: [Nathan GEHIN](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-- 📧 **Email**: [your.email@example.com]
+- 📧 **Email**: [nathan.gehin@gmail.com]
 
 ---
-*Data-driven decisions, one commit at a time.*
+*Last uptade : February 2026*
 <!--
 **Nathan8Gehin/Nathan8Gehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

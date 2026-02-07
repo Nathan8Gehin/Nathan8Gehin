@@ -28,13 +28,7 @@ I specialize in collaborative data projects, in order to build end-to-end analyt
 - **Social Child Protection Analysis (ASE)** 📉
   *Conducted a deep-dive economic and statistical analysis of the "Aide Sociale à l'Enfance" (ASE). Focused on data processing and econometric modeling to extract meaningful social insights.*
 
----
 
-### 📈 GitHub Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord" alt="Nathan's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord" alt="Top Langs" height="150" />
-</p>
 
 ---
 

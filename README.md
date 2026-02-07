@@ -33,7 +33,7 @@ I specialize in collaborative data projects, in order to build end-to-end analyt
 ---
 
 ### 📫 Connect with me
-- 💼 **LinkedIn**: [Nathan GEHIN](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+- 💼 **LinkedIn**: [Nathan GEHIN](https://www.linkedin.com/in/nathan-gehin-a54783339/)
 - 📧 **Email**: [nathan.gehin@gmail.com]
 
 ---
